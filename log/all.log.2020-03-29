@@ -1,0 +1,8 @@
+2020-03-29 03:03:12 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:34) - [ INFO ]----收到GET请求
+2020-03-29 03:03:12 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:45) - [ WARN ]----错误的GET请求：参数错误
+2020-03-29 03:03:12 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:46) - [ INFO ]----记录taskid：e5f4f9db-76ab-45ef-b840-ea64c5884af7 method：GET
+2020-03-29 03:03:30 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:34) - [ INFO ]----收到GET请求
+2020-03-29 03:03:30 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:61) - [ INFO ]----记录taskid：ad5246c9-7c1d-470e-a9dd-cfc6530fc26e method：GET
+2020-03-29 03:03:59 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:34) - [ INFO ]----收到GET请求
+2020-03-29 03:03:59 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:58) - [ WARN ]----错误的GET请求：用户不存在！
+2020-03-29 03:03:59 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:61) - [ INFO ]----记录taskid：614f44aa-0740-4119-83e2-76d937d94b35 method：GET

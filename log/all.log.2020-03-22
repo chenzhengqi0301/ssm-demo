@@ -1,0 +1,8 @@
+2020-03-22 13:40:27 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:34) - [ INFO ]----收到GET请求
+2020-03-22 13:40:28 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:84) - [ WARN ]----错误的GET请求：记录已被删除
+2020-03-22 13:40:28 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:87) - [ INFO ]----记录taskid：2ccbe468-3ce2-41c6-bcb8-7dbc5c0d310f method：GET
+2020-03-22 13:42:49 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:34) - [ INFO ]----收到GET请求
+2020-03-22 13:42:50 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:84) - [ WARN ]----错误的GET请求：记录已被删除
+2020-03-22 13:42:50 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:87) - [ INFO ]----记录taskid：59f35247-9498-49bd-abaf-437e88327468 method：GET
+2020-03-22 13:42:55 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:34) - [ INFO ]----收到GET请求
+2020-03-22 13:42:55 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:61) - [ INFO ]----记录taskid：a2f18172-0160-452a-9ab1-01ba68956aff method：GET

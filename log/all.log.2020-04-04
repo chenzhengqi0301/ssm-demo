@@ -1,0 +1,2 @@
+2020-04-04 17:00:32 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:34) - [ INFO ]----收到GET请求
+2020-04-04 17:00:33 method: com.czq.ssmdemo.Controller.MainController.click_on(MainController.java:61) - [ INFO ]----记录taskid：dc575bd8-4a20-4fcf-859e-9e888a75b124 method：GET
